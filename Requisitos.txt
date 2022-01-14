@@ -1,0 +1,20 @@
+Sistema de Cadastro para Eventos
+
+4 Requisitos
+
+ok 1 - Verificar se a data do evento é posterior à data atual
+	ok - Se sim: Permitir o evento
+	ok - Se não: Alertar que o cadastro não será permitido por data inválida.
+
+ok 2 - Verificar se o participante é maior de 18 anos
+	ok - Maior que 18 anos: Permitir o cadastro
+	ok - Menor de 18 anos: Alertar que o cadastro não é permitido pela idade. 
+
+ok 3 - Listar participantes e palestrantes por evento.
+
+ok 4 - Verificar se a quantidade de participantes é inferior a 100
+	ok - Menos que 100 participantes: Permitir cadastro
+	ok - Mais de 100 participantes: Alertar que o cadastro não será permitido por ter excedido o limite. 
+
+
+
